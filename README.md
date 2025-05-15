@@ -33,3 +33,4 @@ The tools and resources used to implement this model include YouTube for tutoria
 This combination of tools and resources makes it possible to efficiently implement neural style transfer and apply it to a wide range of creative and professional use cases.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/b4665591-fd58-42de-8a44-5fbdde53b40b)
